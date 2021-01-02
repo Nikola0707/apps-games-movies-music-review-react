@@ -1,0 +1,17 @@
+
+.gridCointainer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+}
+.cardGames-container div{
+    width: 100%;
+}
+img{
+    width: 100%;
+    height: 185px;
+}
+.cardGames-titleAndStars{
+    display: flex;
+    align-items: center;
+}
